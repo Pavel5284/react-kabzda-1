@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-kabzda-1/static/css/main.e1dc9cf0.chunk.css",
+    "main.js": "/react-kabzda-1/static/js/main.0e1d2b9b.chunk.js",
+    "main.js.map": "/react-kabzda-1/static/js/main.0e1d2b9b.chunk.js.map",
+    "runtime-main.js": "/react-kabzda-1/static/js/runtime-main.8752df37.js",
+    "runtime-main.js.map": "/react-kabzda-1/static/js/runtime-main.8752df37.js.map",
+    "static/js/2.420c3151.chunk.js": "/react-kabzda-1/static/js/2.420c3151.chunk.js",
+    "static/js/2.420c3151.chunk.js.map": "/react-kabzda-1/static/js/2.420c3151.chunk.js.map",
+    "static/css/3.2ad30aff.chunk.css": "/react-kabzda-1/static/css/3.2ad30aff.chunk.css",
+    "static/js/3.027644f9.chunk.js": "/react-kabzda-1/static/js/3.027644f9.chunk.js",
+    "static/js/3.027644f9.chunk.js.map": "/react-kabzda-1/static/js/3.027644f9.chunk.js.map",
+    "static/css/4.cab76a02.chunk.css": "/react-kabzda-1/static/css/4.cab76a02.chunk.css",
+    "static/js/4.34bdb0c7.chunk.js": "/react-kabzda-1/static/js/4.34bdb0c7.chunk.js",
+    "static/js/4.34bdb0c7.chunk.js.map": "/react-kabzda-1/static/js/4.34bdb0c7.chunk.js.map",
+    "static/css/5.d72f5050.chunk.css": "/react-kabzda-1/static/css/5.d72f5050.chunk.css",
+    "static/js/5.56cdbbf7.chunk.js": "/react-kabzda-1/static/js/5.56cdbbf7.chunk.js",
+    "static/js/5.56cdbbf7.chunk.js.map": "/react-kabzda-1/static/js/5.56cdbbf7.chunk.js.map",
+    "index.html": "/react-kabzda-1/index.html",
+    "static/css/3.2ad30aff.chunk.css.map": "/react-kabzda-1/static/css/3.2ad30aff.chunk.css.map",
+    "static/css/4.cab76a02.chunk.css.map": "/react-kabzda-1/static/css/4.cab76a02.chunk.css.map",
+    "static/css/5.d72f5050.chunk.css.map": "/react-kabzda-1/static/css/5.d72f5050.chunk.css.map",
+    "static/css/main.e1dc9cf0.chunk.css.map": "/react-kabzda-1/static/css/main.e1dc9cf0.chunk.css.map",
+    "static/js/2.420c3151.chunk.js.LICENSE.txt": "/react-kabzda-1/static/js/2.420c3151.chunk.js.LICENSE.txt",
+    "static/js/4.34bdb0c7.chunk.js.LICENSE.txt": "/react-kabzda-1/static/js/4.34bdb0c7.chunk.js.LICENSE.txt",
+    "static/media/preloader.f81eaa7d.gif": "/react-kabzda-1/static/media/preloader.f81eaa7d.gif",
+    "static/media/user.7386cdfa.jpg": "/react-kabzda-1/static/media/user.7386cdfa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8752df37.js",
+    "static/js/2.420c3151.chunk.js",
+    "static/css/main.e1dc9cf0.chunk.css",
+    "static/js/main.0e1d2b9b.chunk.js"
+  ]
+}
